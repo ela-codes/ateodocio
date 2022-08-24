@@ -1,7 +1,7 @@
-Hi 👋 My name is Aena (some know me as Ela)
+Hi 👋 
 ===========================================
 
-
+My name is Aena (some know me as Ela).
 I am on a self-taught journey, working full time and studying programming in between! Python was my first language and I'm currently pursuing a Full-Stack roadmap.
 
 * 🌍  I'm based in Canada!
